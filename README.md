@@ -26,3 +26,16 @@
                                                                                                                                                       
                                                                                                                                                       
 ##
+
+ <div align="center"> 
+<h3> Meus contatos: </h3>
+
+  <a href = "mailto:deboramc05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/debora-macedo-da-costa-50749722 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>                                                                                                                                                     
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
