@@ -3,6 +3,11 @@
 
 <h4> Sejam todos muito bem-vindos ao meu perfil </h4>
 
+🙋 Formada em Tecnologia da Informação 
+🔭Atualmente  trabalhando como  analista de suporte. 
+🌱Estudando HTML, CSS , JavaScript, Git e  algumas trilhas relacionado a frontend. 
+💭Interessada em aprender sobre AWS  e Metodologia Ágil Scrum e Kanban 
+
 <div align="center">
   <a href="https://github.com/Deboramc05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deboramc05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
