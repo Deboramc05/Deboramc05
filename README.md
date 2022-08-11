@@ -5,7 +5,7 @@
 
 🙋 Formada em Tecnologia da Informação <br>
 🔭Atualmente  trabalhando como  analista de suporte. <br>
-🌱Estudando HTML, CSS , JavaScript, Git e  algumas trilhas relacionado a frontend. <br>
+🌱Estudando algumas trilhas,  cursos online e bootcamp, com  foco inicial voltado para Front-End <br> (conhecimentos em HTML5, CSS , Javascript, Git e GitHub).  <br>
 💭Interessada em aprender sobre AWS  e Metodologia Ágil Scrum e Kanban 
 <br><br>
 <div align="center">
