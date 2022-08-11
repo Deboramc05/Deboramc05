@@ -1,13 +1,15 @@
-# Olá, soua  a Débora Costa!
+# Olá, sou  a Débora Costa!
 
 
 <h4> Sejam todos muito bem-vindos ao meu perfil </h4>
 
-🙋 Formada em Tecnologia da Informação <br>
-🔭Atualmente  trabalhando como  analista de suporte. <br>
-🌱Estudando algumas trilhas,  cursos online e bootcamp, com  foco inicial voltado para Front-End <br> (conhecimentos em HTML5, CSS , Javascript, Git e GitHub).  <br>
-💭Interessada em aprender sobre AWS  e Metodologia Ágil Scrum e Kanban 
-<br><br>
+👩‍💻<b>Sobre mim:</b> <br> 
+
+🎓 Formada em Tecnologia da Informação <br> 
+🔭Atualmente  trabalhando como  analista de suporte. <br> 
+📚Estudando algumas trilhas,  cursos online e bootcamp, com  como IGTI, Alura, DIO <br> 
+🧠 Conhecimentos em HTML5, CSS , Javascript, Git e GitHub. <br> 
+💭Interessada em aprender sobre AWS  e Metodologia Ágil Scrum e Kanban <br><br> 
 <div align="center">
   <a href="https://github.com/Deboramc05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deboramc05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
