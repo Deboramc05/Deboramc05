@@ -7,7 +7,7 @@
 
 🎓 Formada em Tecnologia da Informação <br> 
 🔭Atualmente  trabalhando como  analista de suporte. <br> 
-📚Estudando algumas trilhas,  cursos online e bootcamp, com  como IGTI, Alura, DIO <br> 
+📚Estudando algumas trilhas,  cursos online e bootcamp, com  como IGTI e DIO <br> 
 🧠 Conhecimentos em HTML5, CSS , Javascript, Git e GitHub. <br> 
 👀Estou interessada em aprender Front-end e Clound; <br><br> 
 <div align="center">
