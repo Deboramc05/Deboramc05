@@ -10,6 +10,7 @@
 📚Estudando algumas trilhas,  cursos online e bootcamp, com  como IGTI e DIO <br> 
 🧠 Conhecimentos em HTML5, CSS , Javascript, Git e GitHub. <br> 
 👀Estou interessada em aprender Front-end e Clound; <br><br> 
+
 <div align="center">
   <a href="https://github.com/Deboramc05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deboramc05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,12 +23,14 @@
   
   <div  align="center" style="display: inline_block"><br>
  <h3>Principais tecnologias utilizadas:</h3>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
- <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"/>
+    ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+    ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+    [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+    [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"/>
+
+
 
 </div>
                                                                                                                                                       
