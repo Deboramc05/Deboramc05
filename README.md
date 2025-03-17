@@ -7,7 +7,7 @@
 ### Sobre Mim ✍🏻:
 🎓 Formada em Tecnologia da Informação <br> 
 🔭Atualmente  trabalhando como  analista de suporte. <br> 
-📚Estudando algumas trilhas,  cursos online e bootcamp, com  como IGTI e DIO <br> 
+📚Estudando algumas trilhas,  cursos online e bootcamp, com DIO <br> 
 👀Atualmente estou aprendendo desenvolvimento web front-end:;<br><hr> 
 
     
